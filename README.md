@@ -33,7 +33,7 @@ SkyCast is a full-stack weather dashboard built with Spring Boot and vanilla Jav
 
 1. Clone the repository:
 ```bash
-git clone  https://github.com/ayushkushwaha-12/SkyCastt
+git clone   https://github.com/ayushkushwaha-12/SkyCastt
 ```
 2. Navigate to the project folder:
 ```bash
